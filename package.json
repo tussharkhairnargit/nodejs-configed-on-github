@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-configed-on-github",
+  "version": "1.0.0",
+  "description": "repo to try nodejs config at repository on github side",
+  "main": "main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/tussharkhairnargit/nodejs-configed-on-github.git",
+  "author": "Tushar K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tussharkhairnargit/nodejs-configed-on-github/issues"
+  },
+  "homepage": "https://github.com/tussharkhairnargit/nodejs-configed-on-github#readme",
+  "dependencies": {
+       "parcel": "^2.15.4"
+  },
+  "private": false
+}
